@@ -1,1 +1,3 @@
 created a sec file in this repository 
+Welcome to Edunet Foundation
+Great learning of Git and GitHub
